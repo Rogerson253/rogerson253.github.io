@@ -12,11 +12,6 @@ section {
     padding-bottom: 50px;
 }
 
-.container {
-    display: flex;
-    justify-content: center;
-}
-
 h1 {
     font-size: 3em;
     font-weight: bolder;
@@ -30,5 +25,9 @@ h1 {
 
 .resume {
     color: red;
+}
+
+.card {
+    margin-right: auto;
 }
 
