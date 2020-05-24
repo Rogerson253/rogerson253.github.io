@@ -18,6 +18,17 @@ section {
 }
 
 h1 {
+    font-size: 3em;
+    font-weight: bolder;
     text-align: left;
+    text-shadow: 2px 2px white;
+}
+
+.icons {
+    font-size: 3.5em;
+}
+
+.resume {
+    color: red;
 }
 
